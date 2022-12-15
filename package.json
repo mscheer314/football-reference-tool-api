@@ -1,0 +1,19 @@
+{
+  "name": "football-reference-tool-api",
+  "version": "1.0.0",
+  "description": "Football statistic reserach tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscheer314/football-reference-tool-api.git"
+  },
+  "author": "Mark Scheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscheer314/football-reference-tool-api/issues"
+  },
+  "homepage": "https://github.com/mscheer314/football-reference-tool-api#readme"
+}
